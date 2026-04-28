@@ -3,6 +3,8 @@
 Aplikasi **Activity Scheduler** adalah aplikasi desktop berbasis GUI yang dibuat menggunakan **Python (PySide6)** untuk membantu pengguna mengelola jadwal aktivitas harian secara terstruktur.
 
 ---
+##Link Youtube
+https://youtu.be/MWeKyALJrcQ?si=i_tS3_4Cczc4RIp4
 
 ## 👤 Informasi Mahasiswa
 
