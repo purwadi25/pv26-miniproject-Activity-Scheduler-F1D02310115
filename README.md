@@ -102,7 +102,7 @@ activity_scheduler.db
 
 ## 🎥 Video Penjelasan
 
-(Link YouTube akan ditambahkan di sini)
+((https://youtu.be/MWeKyALJrcQ?si=i_tS3_4Cczc4RIp4))
 
 ---
 
